@@ -1,3 +1,4 @@
 Git revert is done with the command "git revert id"
 It is used to undo or redo the changes in the code.
 The commits should be made clear so that helps in good reverting.
+Reverting is majorly used for taking out the mistaken code in a quick way.
