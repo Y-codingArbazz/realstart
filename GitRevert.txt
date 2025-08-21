@@ -2,3 +2,6 @@ Git revert is done with the command "git revert id"
 It is used to undo or redo the changes in the code.
 The commits should be made clear so that helps in good reverting.
 Reverting is majorly used for taking out the mistaken code in a quick way.
+Reverting can be done in a stack flow order.
+we cannot take out the changes from in between the code.
+i.e reverting can be only done from last committed commit id to first.
