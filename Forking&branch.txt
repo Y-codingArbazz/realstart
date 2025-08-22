@@ -1,0 +1,10 @@
+Forking- Copying others code into own repo and can make changes in it.
+Branching- Creating Branches and making changes in the code and can publish the branch to the repo.
+Owner checks and can pull it to the main branch later by merging it.
+Fork->clone->Edit or code->create Branch->Switch to Branch->commit changes->publish branch.
+Commands for trhe above:
+git clone (the repo link)
+git branch (name the branch)
+git switch (to the branch)
+Commit the code
+Then publish the Branch.
